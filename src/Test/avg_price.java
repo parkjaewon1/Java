@@ -2,7 +2,7 @@ package Test;
 
 import java.util.Scanner;
 
-public class Test5543 {
+public class avg_price {
 	public static void main(String[] args) {
 
 		int b;

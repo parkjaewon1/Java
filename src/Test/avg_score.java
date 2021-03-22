@@ -2,7 +2,7 @@ package Test;
 import java.util.Iterator;
 import java.util.Scanner;
 
-public class Test10039 {
+public class avg_score {
 
 	public static void main(String[] args) {
 		
@@ -17,7 +17,7 @@ public class Test10039 {
 				score=40;
 				avg += score;
 			}
-			else if (score>0 && score < 101) 
+			else if (score < 101) 
 				avg +=score;
 		}
 	
