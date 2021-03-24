@@ -2,7 +2,7 @@ package Test;
 
 import java.util.Scanner;
 
-public class distributed_processing {
+public class Ex1009 {
 
 	public static void main(String[] args) {
 

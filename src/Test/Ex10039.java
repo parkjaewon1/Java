@@ -2,7 +2,7 @@ package Test;
 import java.util.Iterator;
 import java.util.Scanner;
 
-class avg_score {
+class Ex10039 {
 
 	public static void main(String[] args) {
 		
